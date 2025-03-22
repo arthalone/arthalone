@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arthalone
 - 👀 I’m interested in learning more about this world.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Js.
 - 💞️ I’m looking to collaborate. 
 - 📫 felipejulio91@hotmail.com
 
